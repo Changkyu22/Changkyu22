@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=CK_CODE&fontSize=90)
 
 ## Introduce
-안녕하세요. IT기획자를 꿈꾸는 CK입니다.
+안녕하세요. IT기획자를 꿈꾸는 창규입니다.
 
 ## 🛠 Languages and Tools
 
